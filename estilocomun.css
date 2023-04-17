@@ -1,0 +1,20 @@
+h1{
+    background-color: green;
+    color:aliceblue;
+}
+.classp1 nav {
+    background-color:aliceblue
+}
+.classp2 nav {
+    background-color:coral
+}
+a{
+    display: inline-block;
+    width: 20vw;
+    max-width: 120px;
+    background-color: bisque;
+    margin: 2px;
+    border-radius: 2px;
+    box-shadow: 5px 10px 18px red;
+    
+}
